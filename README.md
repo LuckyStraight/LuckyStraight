@@ -1,4 +1,3 @@
-<?php
 <h1 align="center">Hi 👋, I'm Joshua Khooba</h1>
 <h3 align="center">I am a new Software Developer/ Software Engineer</h3>
 
