@@ -1,3 +1,4 @@
+<?php
 <h1 align="center">Hi 👋, I'm Joshua Khooba</h1>
 <h3 align="center">I am a new Software Developer/ Software Engineer</h3>
 
@@ -5,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckystraight" alt="luckystraight" /></a> </p>
 
-<?php
 
 class About extends Me
 {
