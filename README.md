@@ -4,22 +4,69 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckystraight" alt="luckystraight" /></a> </p>
+<?php
 
-- 🔭 I’m currently working on **Learning Javascript and Improving my Python Knowledge**
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Best Buy',
+                'position' => 'Computer Sales Advisor'         
+            ]
+        ];
+    }
 
-- 🌱 I’m currently learning **JavaScript**
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Photoshop::class,
+            Ubuntu Linux::class,
+            Visual Studio Code::class, 
+            Python::class, 'experience for 2 years'
+            JavaScript::class, 'currently learning'
+        ];
+    }
 
-- 👯 I’m looking to collaborate on **Python and JavaScript Projects**
+    public function getFutureGoal(): string
+    {
+        return [
+            'Becoming more experienced within the field'
+            'Wanting to collaborate more with Python and JavaScript'
+            'Wanting to make the world a better place with collaboration with others'
+        ];
+    }
 
-- 🤝 I’m looking for help with **Being more experienced within the field**
+    public function getContact(): array
+    {
+        return [
+            'Contact Info' => [
+                'Email' => 'Joshuak419@gmail.com',
+         ];
+    }
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuckyStraight?tab=repositories](https://github.com/LuckyStraight?tab=repositories)
+    public function getHobbies(): string
+    { 
+        return [
+            'Gardening'
+            'Tennis Club'
+            'Going to the Gym'
+        ];
+    }
+    
+    public function getFunFacts(): string
+    {
+       return [
+           'I would have been a standup comedian if I didn't go to college'
+           'Love my Asian sport cars'
+           'Spicy food is always my favourite'
+           'Dog and Cat owner'
+                 
 
-- 💬 Ask me about **My Hobbies**
+    }
+}
 
-- 📫 How to reach me **Joshuak419@gmail.com**
-
-- ⚡ Fun fact **I would have been a Stand-Up Comedian if I didn't like Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
