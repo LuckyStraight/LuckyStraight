@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckystraight" alt="luckystraight" /></a> </p>
+
+```php
 <?php
 
 class About extends Me
@@ -66,6 +68,8 @@ class About extends Me
 
     }
 }
+```
+
 
 
 <h3 align="left">Connect with me:</h3>
