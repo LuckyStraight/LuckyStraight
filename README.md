@@ -25,9 +25,11 @@ class About extends Me
         return [
             Photoshop::class,
             Ubuntu Linux::class,
+            Arch Linux::class,
             Visual Studio Code::class, 
             Python::class, 'experience for 2 years'
-            JavaScript::class, 'currently learning'
+            JavaScript::class, 'experience for 1 year'
+            C::class, 'currently learning'
         ];
     }
 
