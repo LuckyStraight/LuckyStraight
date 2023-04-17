@@ -17,7 +17,7 @@ class About extends Me
                 'company' => 'Best Buy',
                 'position' => 'Computer Sales Advisor'         
             ]
-            workplace' => [
+            'workplace' => [
                 'company' => 'Orange County Government',
                 'position' => 'Data Analysis Student Intern'         
             ]
