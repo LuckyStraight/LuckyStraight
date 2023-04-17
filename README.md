@@ -17,6 +17,10 @@ class About extends Me
                 'company' => 'Best Buy',
                 'position' => 'Computer Sales Advisor'         
             ]
+            workplace' => [
+                'company' => 'Orange County Government',
+                'position' => 'Data Analysis Student Intern'         
+            ]
         ];
     }
 
@@ -27,9 +31,9 @@ class About extends Me
             Ubuntu Linux::class,
             Arch Linux::class,
             Visual Studio Code::class, 
-            Python::class, 'experience for 2 years'
-            JavaScript::class, 'experience for 1 year'
-            C::class, 'currently learning'
+            Python::class, 'experience for 3 years'
+            JavaScript::class, 'experience for 2 years'
+            C::class, 'experience for 1 year'
         ];
     }
 
