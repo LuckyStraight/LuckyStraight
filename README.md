@@ -1,9 +1,10 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Joshua Khooba</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/LuckyStraight/LuckyStraight/main/name.svg" alt="Joshua Khooba" />
+</h1>
 
 
+<h3 align="center" style="color: #ff00ff;">I am a Web and Software Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>
 
-
-<h3 align="center">I am a new Software Developer/Cybersecurity/Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
 
