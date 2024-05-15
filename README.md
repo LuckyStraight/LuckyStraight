@@ -1,4 +1,8 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Joshua Khooba</h1>
+
+
+
+
 <h3 align="center">I am a new Software Developer/Cybersecurity/Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
@@ -120,9 +124,11 @@ class About extends Me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact" alt="luckystraight" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en" alt="luckystraight" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact&theme=radical" alt="luckystraight" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&" alt="luckystraight" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en&theme=radical" alt="luckystraight" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" alt="luckystraight" /></p>
+
 
