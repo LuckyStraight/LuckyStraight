@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center" style="color: #ff00ff;">I am a Web and Software Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>
+<h3 align="center" style="color: #ff00ff;">I am a Full Stack Web Developer and Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
@@ -83,15 +83,18 @@ class About extends Me
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/joshua khooba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua khooba" height="30" width="40" /></a>
-<a href="https://instagram.com/luckystraight_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckystraight_777" height="30" width="40" /></a>
-<a href="https://discord.gg/LuckyStraight77 #7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LuckyStraight77 #7095" height="30" width="40" /></a>
+<h2> 🚀 &nbsp; Connect with me:</h2>
+<p align="center">
+<a href="https://fb.com/joshua khooba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua khooba" height="40" width="40" /></a>
+<a href="https://instagram.com/luckystraight_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckystraight_777" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshua-khooba/"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" 
+alt="joshua khooba" height="40" width="40"/></a>
+<a href="https://discord.gg/LuckyStraight77 #7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LuckyStraight77 #7095" height="40" width="40" /></a>
 </p>
 
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
@@ -111,8 +114,10 @@ class About extends Me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
 </p>
 
+
+
 <h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
@@ -126,10 +131,8 @@ class About extends Me
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact&theme=radical" alt="luckystraight" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en&theme=radical" alt="luckystraight" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" alt="luckystraight" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact&theme=radical" width="35%" alt="luckystraight" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en&theme=radical" width="45%" alt="luckystraight" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" width="45%" alt="luckystraight" /></p>
 
 
