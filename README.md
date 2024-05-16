@@ -49,14 +49,6 @@ class About extends Me
         ];
     }
 
-    public function getContact(): array
-    {
-        return [
-            'Contact Info' =>
-                'Email' => 'Joshuak419@gmail.com',
-         ];
-    }
-
     public function getHobbies(): string
     {
         return [
