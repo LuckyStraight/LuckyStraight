@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/LuckyStraight/LuckyStraight/main/name.svg" alt="Joshua Khooba" />
 </h1>
 
-
 <h3 align="center" style="color: #ff00ff;">I am a Full Stack Web Developer and Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
 
@@ -20,11 +18,11 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Best Buy',
-                'position' => 'Computer Sales Advisor'         
+                'position' => 'Computer Sales Advisor'
             ]
             'workplace' => [
                 'company' => 'Orange County Government',
-                'position' => 'Data Analysis Student Intern'         
+                'position' => 'Data Analysis Student Intern'
             ]
         ];
     }
@@ -35,7 +33,7 @@ class About extends Me
             Photoshop::class,
             Ubuntu Linux::class,
             Arch Linux::class,
-            Visual Studio Code::class, 
+            Visual Studio Code::class,
             Python::class, 'experience for 3 years'
             JavaScript::class, 'experience for 2 years'
             C::class, 'experience for 1 year'
@@ -54,34 +52,32 @@ class About extends Me
     public function getContact(): array
     {
         return [
-            'Contact Info' => [
+            'Contact Info' =>
                 'Email' => 'Joshuak419@gmail.com',
          ];
     }
 
     public function getHobbies(): string
-    { 
+    {
         return [
             'Gardening'
             'Tennis Club'
             'Going to the Gym'
         ];
     }
-    
+
     public function getFunFacts(): string
     {
        return [
            'I would have been a standup comedian if I didn't go to college'
            'Love my Asian sport cars'
            'Spicy food is always my favourite'
-           'Dog and Cat owner'
-                 
+           'Corgi owner'
+
 
     }
 }
 ```
-
-
 
 <h2> 🚀 &nbsp; Connect with me:</h2>
 <p align="center">
@@ -91,7 +87,6 @@ class About extends Me
 alt="joshua khooba" height="40" width="40"/></a>
 <a href="https://discord.gg/LuckyStraight77 #7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LuckyStraight77 #7095" height="40" width="40" /></a>
 </p>
-
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
@@ -114,8 +109,6 @@ alt="joshua khooba" height="40" width="40"/></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
 </p>
 
-
-
 <h2> 🚀 &nbsp;Some Languages I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -130,9 +123,6 @@ alt="joshua khooba" height="40" width="40"/></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact&theme=radical" width="35%" alt="luckystraight" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en&theme=radical" width="45%" alt="luckystraight" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" width="45%" alt="luckystraight" /></p>
-
-
