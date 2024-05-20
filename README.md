@@ -2,11 +2,22 @@
   <img src="https://raw.githubusercontent.com/LuckyStraight/LuckyStraight/main/name.svg" alt="Joshua Khooba" />
 </h1>
 
-<h3 align="center" style="color: #ff00ff;">I am a Full Stack Web Developer and Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3>
+<h3 align="center" style="color: #ff00ff;">Hello Developers!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckystraight&label=Profile%20views&color=0e75b6&style=flat" alt="luckystraight" /> </p>
+<div align="center">
+  <h2><strong>I am a Full Stack Web Developer and Data Analyst</strong></h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" height="50" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" height="50" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" height="50" alt="It's working but you don't know how!"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckystraight" alt="luckystraight" /></a> </p>
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" align="center" width="60%"/><br> 
+</div>
 
 ```php
 <?php
@@ -24,28 +35,6 @@ class About extends Me
                 'company' => 'Orange County Government',
                 'position' => 'Data Analysis Student Intern'
             ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Photoshop::class,
-            Ubuntu Linux::class,
-            Arch Linux::class,
-            Visual Studio Code::class,
-            Python::class, 'experience for 3 years'
-            JavaScript::class, 'experience for 2 years'
-            C::class, 'experience for 1 year'
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return [
-            'Becoming more experienced within the field'
-            'Wanting to collaborate more with Python and JavaScript'
-            'Wanting to make the world a better place with collaboration with others'
         ];
     }
 
@@ -71,6 +60,21 @@ class About extends Me
 }
 ```
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Python", "C", "Java", "Javascript", "Swift", "GO", "PHP" },
+    "OtherLanguages" : { "HTML", "CSS", "Tailwind CSS", "NextJS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "SQL", "CoachRoachDB", "MongoDB" },
+    "Editors" : { "Vscode", "Xcode", "Pycharm", "WebStorm", "Clion", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Flutter", "React", "Docker", "Figma", "Spline", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
 <h2> 🚀 &nbsp; Connect with me:</h2>
 <p align="center">
 <a href="https://fb.com/joshua khooba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua khooba" height="40" width="40" /></a>
@@ -79,6 +83,8 @@ class About extends Me
 alt="joshua khooba" height="40" width="40"/></a>
 <a href="https://discord.gg/LuckyStraight77 #7095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LuckyStraight77 #7095" height="40" width="40" /></a>
 </p>
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
@@ -117,4 +123,5 @@ alt="joshua khooba" height="40" width="40"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystraight&show_icons=true&locale=en&layout=compact&theme=radical" width="35%" alt="luckystraight" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luckystraight&show_icons=true&locale=en&theme=radical" width="45%" alt="luckystraight" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" width="45%" alt="luckystraight" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luckystraight&theme=radical" width="45%" alt="luckystraight" /><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+</p>
