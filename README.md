@@ -124,6 +124,18 @@ alt="joshua khooba" height="40" width="40"/></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 </div>
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LuckyStraight/LuckyStraight/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
