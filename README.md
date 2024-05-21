@@ -10,11 +10,10 @@
 </h3>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+    <a href='https://ko-fi.com/joshuakhooba' target='_blank' style="display:inline-block;text-decoration:none;background-color:#8a2be2;padding:10px 20px;border-radius:5px;">
+        <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
 </div>
-
-
 
 
 <div align="center" width="50">
